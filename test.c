@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define WADE 1
+#define WADE 2
 void main()
 {
     printf("hello Wade");
